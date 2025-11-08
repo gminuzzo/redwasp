@@ -1,2 +1,2 @@
-# redwasp
-Personal repository
+# About me
+Full Stak Developer
